@@ -1,0 +1,9 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["sunnycase <sunnycase@live.cn>"]
+
+[dependencies]
+serde = "1.0.11"
+serde_derive = "1.0.11"
+serde_json = "1.0.2"
