@@ -1,0 +1,9 @@
+[package]
+name = "os"
+version = "0.1.0"
+authors = ["sunnycase <sunnycase@live.cn>"]
+edition = "2018"
+
+[dependencies]
+uefi = { git = "https://github.com/rust-osdev/uefi-rs.git" }
+uefi-services = { git = "https://github.com/rust-osdev/uefi-rs.git" }
